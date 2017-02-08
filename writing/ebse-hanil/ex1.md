@@ -30,8 +30,7 @@
 > - He ~~shows~~ `is showing` dresses.
 > - She ~~visited~~ `is visiting` a shop to buy clothes.
 
-4단계:
-> 문장 모음
+4단계: 문장 모음
 > A woman is `in the shop`. 
 > She `is visiting` a shop `to buy clothes`.
 > She needs a dress `for herself`.
@@ -40,8 +39,7 @@
 > He `is showing` dresses.
 > The dresses are pretty.
 
-5단계:
-> 접속사
+5단계: 접속사
 > A woman is in the shop.
 > She needs a dress for herself, `so` she is visiting a shop to buy clothes.
 > She asked something about the dress.

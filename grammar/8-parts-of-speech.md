@@ -15,7 +15,7 @@
 문장을 만드는 데 필수는 아니다. 가장 많이 쓰는 것은 **_전치사_** 이다.
 
 예제1: 
-> - We need a `immediate` support.(형용사)
+> - We need an `immediate` support.(형용사)
 > - We `desperately` need a support.(부사)
 > - We need a support `from` you.(전치사)
 

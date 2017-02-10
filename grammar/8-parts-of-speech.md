@@ -30,7 +30,7 @@
 
 예제4:
 > - Children experience `minor` somnambulism.(형용사)
-> - Children `occasionally' experience somnambulism.(부사)
+> - Children `occasionally` experience somnambulism.(부사)
 > - Children experience somnambulism `during` the sleep.(전치사)
 
 예제5:

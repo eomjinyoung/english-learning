@@ -23,6 +23,7 @@ that          | that
 
 예1:
 > I read **the book** . **The book** was telling about baby's intelligence.
+> - ~~I read **the book** . **that** was telling about baby's intelligence.~~
 > - I read *the book* `that` was telling about baby's intelligence. (형용사절)
 > - I read *the book* `which` was telling about baby's intelligence. (형용사절)
 
@@ -38,15 +39,15 @@ that          | that
 
 예4:
 > **The book** became the best seller. **The book** was nominated as a book of 2010.
-> - ~~*The book* became the best seller. `that` was nominated as a book of 2010.~~
-> - *The book* `that` was nominated as a book of 2010 became the best seller.
-> - *The book* `which` was nominated as a book of 2010 became the best seller.
+> - ~~**The book** became the best seller. **that** was nominated as a book of 2010.~~
+> - *The book* `that was nominated as a book` of 2010 became the best seller.
+> - *The book* `which was nominated as a book` of 2010 became the best seller.
 
 예5:
 > **The book** was nominated as a book of 2010. **The book** became the best seller. 
-> - ~~*The Book* was nominated as a book of 2010. `that` became the best seller.~~
-> - *The Book* `that` became the best seller was nominated as a book of 2010.
-> - *The Book* `which` became the best seller was nominated as a book of 2010.
+> - ~~**The Book** was nominated as a book of 2010. **that** became the best seller.~~
+> - *The Book* `that became the best seller` was nominated as a book of 2010.
+> - *The Book* `which became the best seller` was nominated as a book of 2010.
 
 예6:
 > Look at **the sign**. **The sign** is between the buildings.

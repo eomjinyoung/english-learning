@@ -128,9 +128,11 @@ It~ that~ 구문인 경우,
 > - It was the food `that made me sick.`
 
 ## 형용사절(clause)을 구(phrase)로 바꾸기
-- 말을 할 때 상대에서 빨리 전달하기 위함이다. 즉 주로 대화용이다.
-- 따라서 글을 작성할 때는 가능한 구로 고치는 것을 자제하라.
-- 하지만 구로 바꿀 수 있다는 것을 보여주기 위해 글을 작성할 때 간간히 바꾸기도 한다. 
+```
+> 말을 할 때 상대에서 빨리 전달하기 위함이다. 즉 주로 대화용이다.
+> 따라서 글을 작성할 때는 가능한 구로 고치는 것을 자제하라.
+> 하지만 구로 바꿀 수 있다는 것을 보여주기 위해 글을 작성할 때 간간히 바꾸기도 한다. 
+```
 
 형용사절
 > - ... [명사] `that` you mentioned before
@@ -167,3 +169,4 @@ be 동사가 있는 절을 구로 바꾸는 경우,
 >   - *The man* ~~who~~ `I am working with` is easy going. 
 > - I like **everything** `that you told me`.
 >   - I like *everything* ~~that~~ `you told me`.
+

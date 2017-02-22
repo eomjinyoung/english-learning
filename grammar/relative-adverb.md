@@ -170,15 +170,15 @@
 
 생활 영어에서 단독적인 의사 전달용으로 사용하기도 한다.
 > - You are wearing the skirt which is out of fashion.
->   - Whatever! (신경 꺼/남이야!)
+>   - `Whatever!` (신경 꺼/남이야!)
 > - Are you crazy? 
->   - Whatever! (신경 안써!)
+>   - `Whatever!` (신경 안써!)
 > - Do you know where he is now?
->   - Whatever!
+>   - `Whatever!`
 > - Where did they go?
->   - Wherever!
+>   - `Wherever!`
 > - Watch your mouse!
->   - Whatever!
+>   - `Whatever!`
 
 ## wh~ever의 강조 = no matter
 ```

@@ -9,15 +9,15 @@
 
 ## 전치사 + 관계대명사 문제점 
 ```
-> 관계대명사 앞 또는 관계대명사가 소속된 문장의 뒤에 전치사를 빠트리지 않고 넣는 다는 것은 어렵다. 
+> 관계대명사 앞 또는 관계대명사가 소속된 문장의 뒤에 전치사를 빠트리지 않고 넣는 다는 것은 어렵다.
 > 또한 어떤 전치사를 넣어야 하는 지 알기도 어렵다.
 > writing에서 사용할 때 작성자의 학문 수준이 높다는 것을 보여준다.
 ```
 > the house `which I live` (X)
-> - 전치사 `in` 이 없다. 
+> - 전치사 `in` 이 없다.
 > - the house `which` I live `in` (O)
 >   - 전치사가 문장의 뒤에 있으면 다음에 명사가 올 것 같은 느낌을 주며, 말이 아직 끝나지 않은 것 같다.
->   - 그래서 다음과 같이 which 앞으로 보내는 것이다. 
+>   - 그래서 다음과 같이 which 앞으로 보내는 것이다.
 > - the house `in` `which` I live (O)
 >
 > the date of the week which we met (X)
@@ -40,7 +40,7 @@
 > - the house `in` `which` my family lives (O)
 
 
-## 전치사 + 관계대명사 = 관계부사 
+## 전치사 + 관계대명사 = 관계부사
 ```
 > 관계대명사가 먼저 등장한 다음에 관계부사가 등장하였다.
 > `전치사 + 관계대명사` 대신 관계부사로 간단히 줄일 수 있다.
@@ -56,7 +56,7 @@
 예2:
 > I never forget **the day**. We met on **the day**.
 > - ~~I never forget *the day*. We met on `which`.~~
->   - 영어는 반복을 싫어한다. 반복되는 명사 대신 '**관계대명사**'로 앞 문장의 명사를 가리킨다. 
+>   - 영어는 반복을 싫어한다. 반복되는 명사 대신 '**관계대명사**'로 앞 문장의 명사를 가리킨다.
 > - I never forget *the day* `which` we met `on`.
 >   - 관계대명사가 가리키는 명사 뒤에 관계대명사를 붙이고 두 문장을 하나로 합친다.
 > - I never forget *the day* `on` `which` we met.
@@ -112,7 +112,7 @@
 
 예2:
 > - I have ten comic books. The books`, which I read this weekend,` were interesting. (계속적 용법)
->   - 10권의 책을 이번 주말에 모두 읽었는데 재미있었다는 의미. 
+>   - 10권의 책을 이번 주말에 모두 읽었는데 재미있었다는 의미.
 > - I have ten comic books. The books `which I read this weekend` were interesting. (제한적 용법)
 >   - 10권 중에 내가 이번 주말에 읽은 책이 재미있었다는 의미.
 
@@ -156,7 +156,7 @@
 >   - whoever가 특정 한 사람을 가리킬 때는 3인칭 단수 gets로 표현한다.
 >   - 보통 복수로 표현한다.
 > - You have to be humble `whomever` you meet. (복합관계대명사 목적격)
-> - You can bring `whatever` you want (to). 
+> - You can bring `whatever` you want (to).
 >   - 문장 끝에 to가 있으면 말이 끝난 것 같지 않기 때문에 생략하기도 한다)
 > - You can do `whatever` you want (to).
 > - `Whichever bus gets` there is rapid.
@@ -164,14 +164,14 @@
 
 복합관계부사: 부사와 접속사의 역할을 한다.
 > - `Wherever you go`, you will see this sign.
-> - Culture shocks coccur `whenever` we face unfamiliar culture. 
+> - Culture shocks coccur `whenever` we face unfamiliar culture.
 > - Let's go `wherever` you like.
 > - I take a warm bath `whenever` I feel tired.
 
 생활 영어에서 단독적인 의사 전달용으로 사용하기도 한다.
 > - You are wearing the skirt which is out of fashion.
 >   - `Whatever!` (신경 꺼/남이야!)
-> - Are you crazy? 
+> - Are you crazy?
 >   - `Whatever!` (신경 안써!)
 > - Do you know where he is now?
 >   - `Whatever!`
@@ -183,7 +183,7 @@
 ## wh~ever의 강조 = no matter
 ```
 > no matter who/which/what/where/when/how (비록 ~일지라도)
-> 참고: don't < never < never ever 
+> 참고: don't < never < never ever
 ```
 예:
 > - `Who(m)ever` you saw, it was not me.
@@ -197,8 +197,6 @@
 > - `Who ever` did you see there? (너는 도대체 거기에서 누구를 본 거니?)
 > - `Which ever` words have upset you? (도대체 어느 말이 너를 화나게 했니?)
 > - `What ever` are you talking about? (도대체 무엇에 대해 말하고 있는 중이니?)
-> - `Where ever` did you cut your hair? Look at you! (도대체 어디서 머리를 잘랐니? 너 좀 봐!) 
+> - `Where ever` did you cut your hair? Look at you! (도대체 어디서 머리를 잘랐니? 너 좀 봐!)
 
 말할 때 구분하기 위해서 ever를 강하게 말해야 한다.
-
-

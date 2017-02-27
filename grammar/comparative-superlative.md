@@ -178,10 +178,10 @@ more/most + 명사:
 > 따라서 부정관사 'a'도 올 수 있다.
 ```
 - carefully (원급)
-- `more` carefully (비교급)
-- `most` carefully (최상급)
-- `most` carefully designed (최상급)
-- `the most` carefully designed `lecture`(명사)
+  - `more` carefully (비교급)
+  - `most` carefully (최상급)
+  - `most` carefully designed (최상급)
+  - `the most` carefully designed `lecture`(명사)
 
 ```
 최사급 부사 앞에 'the'가 있을 경우 II

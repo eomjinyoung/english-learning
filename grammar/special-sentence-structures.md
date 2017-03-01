@@ -2,9 +2,7 @@
 - 강조를 하기 위하여 사용하는 기법
 - `생략` - 문법적으로 꼭 필요한 말을 생략하여 강조하는 방법
 - `도치` - 문장 구성 요소의 순서를 뒤집어 강조하는 방법
-- `삽입` - 콤마(,) 등을 삽입하여 문장을 둘로 쪼갬으로써 강조하는 방법
-- `동격` - 같은 내용을 두 번 반복하여 강조하는 방법
-- `강조구문` - It is ~ that을 사용하여 특정 형식으로 표현하여 강조하는 방법
+- `삽입과 동격` - 문장 사이에 다른 말로 채워서 강조하는 방법
 
 ## 생략(ellipsis)
 ```
@@ -105,8 +103,45 @@ what으로 시작하는 명사절 강조
 ```
 - I know `what you did last summer`.
   -  `What you did last summer` I know. 
-  - 앞으로 보낸다. 단 What 명사절이 크기 때문에 주어와 동사는 도치하지 않는다.
+  - 앞으로 보낸다. What 명사절이 커서 그 자체만으로 눈에 띄기 때문에 주어와 동사는 도치하지 않는다.
 - I heard `what you were saying`.
   - `What you were saying` I heard.
 
-## 삽입()
+## 삽입과 동격
+```
+삽입
+> 문장을 갈라 놓고 그 안에 상대방이 관심을 끌 만한 말을 넣어서 강조하기
+> so to speak(말하자면), I think(내 생각에), I guess(내 추측에), I believe(내 믿음에), you think(네 생각에)
+> do you think(네 생각에는), and what is worse(업친 데 덮친 격으로)
+```
+- Tom is in charge of the matter.
+  - Tom is`, so to speak,` in charge of the matter.
+- What makes`, you think,` I am responsible for this?
+- This text message will make him angry.
+  - This text message`, I think/guess/believe,` will make him angry.
+- Who `do you think` I am?
+- What `do you think` the true is?
+- It is raining`, and what was worse,` I lost my umbrella.
+
+```
+동격
+> 상대방에게 꼭 기억시키고 싶은 단어는 의미상 같은 다른 단어로 반복하여 강조한다.
+```
+- I like him`, Jason`. (comma 동격)
+- I saw Jason`, one of our classmates`. (comma 동격)
+- The movie `of this year` is Glory. (전치사 of 동격)
+  - The movie `on TV` is Glory. (다른 전치사도 동격의 성격으로 제공한다)
+  - The movie `in my mind` is Glory. (다른 전치사도 동격의 성격을 제공한다)
+  - 그래도 'of'가 더 동격의 성격이 강하다.
+- The street `of this area` is famous among the trourists. (전치사 of 동격)
+- The news `that we heard` make us happy. (관계대명사 that 동격)
+- I need a space `that I can work quietly`. (관계대명사 that 동격)
+
+```
+It is/was ~ that ~ 
+```
+- I lost my USB in the office today.
+  - It is `I` that lost my USB in the office today.
+  - It is `my USB` that I lost in the office today.
+  - It is `in the office` that I lost my USB today.
+  - It is `today` that I lost my USB in the office.

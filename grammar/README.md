@@ -7,3 +7,4 @@ EBS 한일 강사의 종합 영문법 정리 노트!
 ## [관계부사(relative adverb)](relative-adverb.md)
 ## [비교급, 최상급(comparative, superlatve)](comparative-superlative.md)
 ## [특수 구문(special sentence structures)](special-sentence-structures.md)
+## [집접 및 간접 화법(direct and indirect speech)](direct-and-indirect-speech.md)

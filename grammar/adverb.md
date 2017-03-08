@@ -84,8 +84,7 @@ saintly(성스러운)    | righteously(올바르게)| in a holy way(성스러운
 ```
 형용사               | 부사               
 -------------------- | --------------------
-daily(매일의/일상적인) | daily(매일/날마다)
-예) <br /> **`daily`** news | 예) I did this **`daily`**.
+daily(매일의/일상적인) <br> 예) **`daily`** news| daily(매일/날마다) <br> 예) I did this **`daily`**.
 lively(활기찬)       | lively(활발하게/활기차게)
 예) a **`lively`** music | 예) The kids played **`lively`**.
 kingly(왕다운)       | kingly(왕답게/당당히)

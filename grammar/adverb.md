@@ -60,11 +60,11 @@
 ## 부사와 형용사
 ```
 부사처럼 보이는 형용사 (명사 + ly):
-likely(~할 것 같은), friendly(친절한), lonely(외로운), earthly(세속적인),
-manly(남자다운), lovely(사랑스러운/어여쁜), godly(경건한), saintly(성스러운)
+    likely (~할 것 같은), friendly (친절한), lonely (외로운), earthly (세속적인),
+    manly (남자다운), lovely (사랑스러운,어여쁜), godly (경건한), saintly (성스러운)
 
-> 위 형용사들은 부사로 만들기 위해 'ly'를 붙이면 'ly'가 반복되기 때문에
-  다른 유사한 뜻을 지닌 부사로 대체하거나 전치사구의 형태로 사용한다. 
+위 형용사들은 부사로 만들기 위해 'ly'를 붙이면 'ly'가 반복되기 때문에
+다른 유사한 뜻을 지닌 부사로 대체하거나 전치사구의 형태로 사용한다. 
 ```
 
 형용사               | 부사                 | 전치사구
@@ -80,23 +80,108 @@ saintly(성스러운)    | righteously(올바르게)| in a holy way(성스러운
 
 
 ```
-부사와 형용사의 모양이 같은 것(-ly 형태)
+부사와 형용사의 모양이 같은 것(-ly 형태):
+    daily (형용사:매일의,일상적인/부사:매일,날마다), lively (활기찬/활발하게,활기차게)
+    kingly (왕다운/왕답게,당당히), worldly (이 세상의,속세의/세속적으로)
+    heavenly (천국같은,하늘의/대단히,천국처럼), early (이른,초기의/일찍이,일찍부터)
+    kindly (친절한/친절하게)
 ```
-형용사               | 부사               
--------------------- | --------------------
-daily(매일의/일상적인) <br> **`daily`** news          | daily(매일/날마다) <br> I did this **`daily`**.
-lively(활기찬) <br> a **`lively`** music              | lively(활발하게/활기차게) <br> The kids played **`lively`**.
-kingly(왕다운) <br> a **`kingly`** rule               | kingly(왕답게/당당히) <br> He walked **`kingly`**.
-worldly(이 세상의/속세의) <br> **`worldly`** wisdom   | worldly(세속적으로) <br> He has done it **`worldly`**.
-heavenly(천국같은/하늘의) <br> a **`heavenly`** experience | heavenly(대단히/천국처럼) <br> I felt **`heavenly`**.
-early(이른/초기의) <br> an **`early`** bird           | early(일찍이/일찍부터) <br> I finished it **`early`**. 
-kindly(친절한) <br> a **`kindly`** support            | kindly(친절하게) <br> She **`kindly`** explained it to me.
+- **`daily`** news (형용사) (매일 뉴스)
+  - I did this **`daily`**. (부사) (나는 이것을 매일 한다.)
+- a **`lively`** music (활기찬 음악) 
+  - The kids played **`lively`**. (그 아이들은 활기차게 놀았다.)
+- a **`kingly`** rule (왕같은 규칙)
+  - He walked **`kingly`**. (그는 왕처럼 폼 내면서 걸었다.)
+- **`worldly`** wisdom (세속적인 현명함/분별)
+  - He has done it **`worldly`**. (그는 세속적으로 그 일을 처리했다.)
+- a **`heavenly`** experience (천국 경험)
+  - I felt **`heavenly`**. (나는 천국처럼 느겼다.)
+- an **`early`** bird (일찍 일어난 새)
+  - I finished it **`early`**. (나는 그것을 일찍 끝냈다.)
+- a **`kindly`** support (친절한 도움)
+  - She **`kindly`** explained it to me. (그녀는 친절하게 그것을 나에게 설명했다.)
+
 
 ```
-부사와 형용사의 모양이 같은 것(-ly가 붙지 않은 것)
+부사와 형용사의 모양이 같은 것(-ly가 붙지 않은 것):
+    fast (빠른,단단한/빨리,단단히), hard (굳은,힘든,부지런한/단단히,열심히), 
+    long (긴,오래걸리는/길게,오랫동안), back (뒤의/뒤로,제자리에), enough (충분한/충분히),
+    far (먼/멀리), left (왼쪽의/왼쪽으로), little (작은,짧은,하찮은/좀,거의~않다), 
+    low (낮은/낮게), still (고요한,정지한/아직도,여전히,더욱), straight (곧은,똑바른,일관된/곧장,일직선으로),
+    well (건강한,보기좋은/잘,상당히), deep (깊은/깊게), direct (직행의/곧바로,직행으로),
+    high (높은/높게), just (올바른,공정한,적정한/바로,꼭,방금,잠깐,조금), late (늦은,최근의/늦게,최근까지), 
+    much (많은/많이,매우,대단히), more (더 큰,더 많은/더 크게,더 많이), 
+    most (가장 큰,최고의,대부분의/가장 많이,매우,대단히), near (가까운/가까이), 
+    pretty (예쁜/꽤,비교적), right (옳은,바른,알맞은,오른쪽의/옳게,바르게,적절하게,바로,꼭), 
+    short (짧은,부족한,파삭파삭한/짧게,급히)
 ```
-형용사               | 부사               
--------------------- | --------------------
+  - a `hard` job (힘든 직업)
+- I study `hard`. (나는 열심히 공부한다.)
+  - a `fast` pace (형용사) (빠른 걸음)
+- He walked `fast`. (부사) (그는 빨리 걸었다.)
+  - a `long` trip (긴 여행)
+- Can you make it `long`? (그걸 길게 해 줄 수 있니?)
+  - `enough` money (충분한 돈)
+- I have had `enough`. (나는 충분히 가졌다.)
+  - `far` distance (먼 거리)
+- It is `far` away. (그곳은 멀다.)
+  - a `left` signal (왼쪽 신호)
+- Turn `left` there! (거기서 왼쪽으로 돌아!)
+  - `little` trouble (작은 문제)
+- I ate `little`. (나는 적게 먹었다.)
+  - a `low` tide (낮은 파다)
+- It flied `low`. (그것은 낮게 날았다.)
+  - `still` water (고용한 물)
+- `Still`, it is behind the veil. (여전히 그것은 베일에 가려져 있다.)
+  - a `straight` talk (직접적인 대화)
+- Go `straight` this way! (이쪽으로 곧장 가세요!)
+  - a `well` body (좋은 몸)
+- I know him `well`. (나는 그를 잘 안다.)
+  - a `deep` affection (깊은 매력)
+- He dived too `deep`. (그는 너무 깊이 다이빙 했다.)
+  - a `direct` number (직통 번호)
+- I go `direct` to home after work. (나는 퇴근 후에 곧장 집으로 간다.)
+  - a `high` temperature (높은 온도)
+- He scored `high`. (그는 점수를 높게 땄다.)
+  - `just` judgment (올바른 판단)
+- I `just` did. (나는 그냥 했다.)
+  - a `late` evening (늦은 저녁)
+- Don't be `late`! (늦지 마!)
+  - `much` time (많은 시간)
+- This is too `much`. (이건 너무 많아.)
+  - `more` money (더 많은 돈)
+- I need `more`. (나는 더 많이 필요하다.)
+  - `most` people (대부분의 사람들)
+- I hope you make (the) `most`. (나는 네가 최대한 노력하기를 바란다.)
+  - the `near` future (가까운 미래)
+- The midterm comes `near`. (중간고사 시험이 가까이 다가왔다.)
+  - a `pretty` woman (귀여운 여자)
+- You did `pretty` well. (당신은 아주 잘 했다.)
+  - `right` answers (바른 대답들)
+- You should act `right`. (너는 올바르게 행동해야 한다.)
+  - a `short` line (짧은 줄 또는 대사)
+- Can you make it `short`? (네가 그것을 줄여줄 수 있어?)
+
+```
+형용사에 -ly를 붙이면 뜻이 달라지는 부사:
+    deep/deeply (깊은/대단히), direct/directly (직행의/곧장,즉시), hard/hardly (단단한,굳은,어려운/거의~아닌),
+    high/highly (높은/대단히,매우), late/lately (늦은/최근에), near/nearly (가까운/거의),
+    short/shortly (짧은/곧,조만간)
+```
+- a `deep` feeling (형용사) (**깊은** 감정)
+  - I am `deeply` sorry. (부사) (내가 **매우** 미인하다.)
+- a `direct` route (**직행** 길)
+  - We send the package `directly` to you. (우리는 그 소포를 당신에게 **곧장** 보내겠다.)
+- a `hard` surface (**단단한** 표면)
+  - I `hardly` see him. (나는 그를 **거의** 보지 않는다.)
+- a `high` rank (**높은** 서열)
+  - We `highly` remommend you. (우리는 당신을 **높이** 추천한다.)
+- a `late` charge (**늦어서** 내는 벌금 또는 비용)
+  - `Lately`, the living expense  is soaring. (**최근에** 생활비가 급상승하고 있다.)
+- a `near` day (**가까운** 날)
+  - I was `nearly` hit. (나는 **거의** 맞을 뻔 했다.)
+- a `short` temper (**짧은/급한** 성질)
+  - It will begin shortly. (그것은 **조만간** 시작할거야.)
 
 ## 부사의 위치
 ```
